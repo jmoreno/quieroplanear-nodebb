@@ -1,0 +1,10 @@
+{
+  "url": "https://quieroplanear-nodebb.herokuapp.com/",
+  "database": "redis",
+  "redis": {
+    "host": "spinyfin.redistogo.com",
+    "port": "9781",
+    "password": "ea184718eefc692e38506b1f211138af",
+    "database": "0"
+  }
+}
