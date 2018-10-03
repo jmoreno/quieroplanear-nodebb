@@ -1,8 +1,8 @@
 {
     "url": "https://quieroplanear-nodebb.herokuapp.com/",
     "secret": "cefdd292-d74d-42b8-9ad8-a0161750c96f",
-    "database": "redis",
     "port": 4567,
+    "database": "redis",
     "redis": {
         "host": "spinyfin.redistogo.com",
         "port": "9781",
