@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "75d3a756-77f4-4f0c-8a01-1fb8af23ba59",
+    "database": "redis",
+    "redis": {
+        "host": "spinyfin.redistogo.com",
+        "port": "9781",
+        "password": "ea184718eefc692e38506b1f211138af",
+        "database": "0"
+    },
+    "port": "4567"
+}
