@@ -10,7 +10,7 @@
     },
     "main": "app.js",
     "scripts": {
-        "start": "./nodebb setup && ./nodebb dev",
+        "start": "./nodebb build && ./nodebb start",
         "lint": "eslint --cache ./nodebb .",
         "pretest": "npm run lint",
         "test": "nyc --reporter=html --reporter=text-summary mocha",
