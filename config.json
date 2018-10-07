@@ -1,5 +1,5 @@
 {
-    "url": "http://localhost:4567",
+    "url": "https://quieroplanear-nodebb.herokuapp.com/",
     "secret": "75d3a756-77f4-4f0c-8a01-1fb8af23ba59",
     "database": "redis",
     "redis": {

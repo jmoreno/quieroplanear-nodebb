@@ -10,7 +10,7 @@
   },
   "main": "app.js",
   "scripts": {
-    "start": "node loader.js",
+    "start": "node loader.js --no-daemon --no-silent",
     "lint": "eslint --cache ./nodebb .",
     "pretest": "npm run lint",
     "test": "nyc --reporter=html --reporter=text-summary mocha",
@@ -66,6 +66,7 @@
     "mousetrap": "^1.6.1",
     "mubsub-nbb": "^1.5.0",
     "nconf": "^0.10.0",
+    "nodebb-plugin-blog-comments2-wisedu": "^1.0.0",
     "nodebb-plugin-composer-default": "6.1.2",
     "nodebb-plugin-dbsearch": "2.0.21",
     "nodebb-plugin-emoji": "^2.2.5",
